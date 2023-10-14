@@ -13,7 +13,7 @@ To run the script, you need to have the following dependencies installed:
 You can install the required packages using pip:
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/PassantAdel/Image_Colorization.git` 
+1. Clone the repository: `git clone https://github.com/PassantAdel/Auto-Encoder.git` 
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
