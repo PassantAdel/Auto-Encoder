@@ -21,7 +21,7 @@ You can install the required packages using pip:
 2. View the generated visualizations and reconstructed images.
 
 ## Results
-The model achieves an accuracy of 54.55% after 10 epochs. Check the sample colorized images in the script for comparison.
+The autoencoder achieves a reconstruction loss of 0.0078 after 10 epochs.
 
 ## Description
 The script performs the following operations:
